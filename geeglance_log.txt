@@ -1,0 +1,771 @@
+2022-04-23 17:08:19	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_configs error: java.net.SocketTimeoutException: failed to connect to api.modsdk.app/104.18.11.87 (port 443) from /10.160.100.134 (port 56004) after 20000ms
+2022-04-23 17:08:19	ModSDK [I] API:/v1/app/get_apks onFailure msg:url: https://api.modsdk.app/v1/app/get_apks error: java.net.SocketTimeoutException: failed to connect to api.modsdk.app/104.18.11.87 (port 443) from /10.160.100.134 (port 56006) after 20000ms
+2022-04-23 17:08:19	ModSDK [I] API:/v1/app/get_applets onFailure msg:url: https://api.modsdk.app/v1/app/get_applets error: java.net.SocketTimeoutException: failed to connect to api.modsdk.app/104.18.11.87 (port 443) from /10.160.100.134 (port 56008) after 20000ms
+2022-04-23 17:08:19	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_applet_by_pos error: java.net.SocketTimeoutException: failed to connect to api.modsdk.app/104.18.11.87 (port 443) from /10.160.100.134 (port 56010) after 20000ms
+2022-04-23 17:08:34	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_applet_by_pos error: java.net.ConnectException: Failed to connect to api.modsdk.app/104.18.11.87:443
+2022-04-23 17:08:50	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:11:17	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 17:11:17	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:11:18	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 17:11:18	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 17:11:18	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 17:11:49	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /10.209.215.185 (port 36332) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 17:11:49	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 17:12:35	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:13:16	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:15:27	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:16:50	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:20:55	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 17:20:55	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 17:20:58	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 17:20:58	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 17:20:58	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 17:21:28	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /10.133.143.236 (port 40202) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 17:21:28	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 18:47:30	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 18:47:30	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 18:47:30	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 18:47:30	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 18:47:49	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_configs error: java.net.SocketTimeoutException: timeout
+2022-04-23 18:48:00	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /10.117.69.160 (port 49608) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 18:48:00	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 19:14:32	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 19:14:32	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 19:14:38	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 19:14:38	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 19:14:39	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 19:14:54	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 19:15:08	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /10.208.139.165 (port 42752) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 19:15:08	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 19:43:16	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 19:43:16	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 19:43:16	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 19:43:20	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 19:43:20	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 19:43:58	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /10.121.63.42 (port 32786) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 19:43:58	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 20:48:35	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 20:48:37	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 20:48:42	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 20:48:55	ModSDK [I] API:/v1/app/get_apks onFailure msg:url: https://api.modsdk.app/v1/app/get_apks error: java.net.SocketTimeoutException: timeout
+2022-04-23 20:51:36	ModSDK [I] API:/v1/app/get_applets onFailure msg:url: https://api.modsdk.app/v1/app/get_applets error: java.net.ConnectException: Failed to connect to api.modsdk.app/104.18.11.87:443
+2022-04-23 20:51:36	ModSDK [I] API:/v1/app/get_apks onFailure msg:url: https://api.modsdk.app/v1/app/get_apks error: java.net.ConnectException: Failed to connect to api.modsdk.app/104.18.11.87:443
+2022-04-23 20:51:36	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_configs error: java.net.ConnectException: Failed to connect to api.modsdk.app/104.18.11.87:443
+2022-04-23 20:51:36	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_applet_by_pos error: java.net.ConnectException: Failed to connect to api.modsdk.app/104.18.11.87:443
+2022-04-23 20:53:23	ModSDK [I] API:/v1/app/get_applet_by_pos onSuccess responseBody:msg: "get applet by position success"
+app {
+  app_id: 3
+  md5: "ec7debe0964979deea424fe279b9f6e6"
+  url: "https://market.wenextlama.store/app/lama_luokai_promotion.zip"
+  version: "v0.1.1"
+}
+ad {
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK1.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK2.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK3.png"
+  avatar_urls: "https://sa-east-1.cf.modsdkcdn.app/lama_images/PK4.png"
+  message: "Free Voice Chat Rooms & Game"
+  status: Opened
+  nested: true
+}
+
+2022-04-23 20:53:27	ModSDK [I] d start:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk
+2022-04-23 20:53:27	ModSDK [I] API:/v1/app/get_apks onSuccess responseBody:apk_version {
+  app_id: 1
+  version: 27
+}
+apk_version {
+  app_id: 3
+  version: 18
+}
+apk_version {
+  app_id: 4
+  version: 1
+}
+apk_version {
+  app_id: 5
+  version: 1
+}
+apk_version {
+  app_id: 6
+}
+apk_version {
+  app_id: 7
+}
+apk_version {
+  app_id: 8
+}
+
+2022-04-23 20:53:28	ModSDK [I] API:/v1/app/get_applets onSuccess responseBody:[{"appId_":1,"memoizedIsInitialized":-1,"version_":69,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":3,"memoizedIsInitialized":-1,"version_":41,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":4,"memoizedIsInitialized":-1,"version_":20,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":5,"memoizedIsInitialized":-1,"version_":26,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":6,"memoizedIsInitialized":-1,"version_":32,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":7,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0},{"appId_":8,"memoizedIsInitialized":-1,"version_":0,"unknownFields":{"fields":{},"fieldsDescending":{}},"memoizedSize":-1,"memoizedHashCode":0}]
+2022-04-23 20:53:46	ModSDK [I] API:/v1/app/get_configs onSuccess responseBody:map {
+  key: 1
+  value: 5
+}
+map {
+  key: 3
+  value: 5
+}
+map {
+  key: 4
+  value: 1
+}
+map {
+  key: 5
+  value: 0
+}
+map {
+  key: 6
+  value: 0
+}
+map {
+  key: 7
+  value: 0
+}
+map {
+  key: 8
+  value: 0
+}
+
+2022-04-23 20:53:58	ModSDK [I] d exception
+java.net.SocketTimeoutException: failed to connect to market.wenextlama.store/169.197.142.248 (port 443) from /100.85.61.100 (port 56852) after 30000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:127)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.connect(DelegatingHttpsURLConnection.java:89)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:26)
+	at app.sublive.mod.download.c.a(SourceFile:19)
+	at app.sublive.mod.download.c.a(SourceFile:8)
+	at app.sublive.mod.download.c.b(Unknown Source:0)
+	at app.sublive.mod.download.d.call(Unknown Source:2)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+
+2022-04-23 20:53:58	ModSDK [I] d finished id:https://market.wenextlama.store/app/lama_luokai.apk/data/user/0/com.gbwhatsapp/files/lark/download/3_v1.0.49.apk, result:false
+2022-04-23 21:04:21	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_applet_by_pos error: java.net.UnknownHostException: Unable to resolve host "api.modsdk.app": No address associated with hostname
+2022-04-23 21:04:31	ModSDK [I] API:/v1/app/get_apks onFailure msg:url: https://api.modsdk.app/v1/app/get_apks error: java.net.UnknownHostException: Unable to resolve host "api.modsdk.app": No address associated with hostname
+2022-04-23 21:04:31	ModSDK [I] API:/v1/app/get_configs onFailure msg:url: https://api.modsdk.app/v1/app/get_configs error: java.net.UnknownHostException: Unable to resolve host "api.modsdk.app": No address associated with hostname
+2022-04-23 21:04:36	ModSDK [I] API:/v1/app/get_applets onFailure msg:url: https://api.modsdk.app/v1/app/get_applets error: java.net.UnknownHostException: Unable to resolve host "api.modsdk.app": No address associated with hostname
